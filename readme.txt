@@ -3,7 +3,7 @@ cd "/d/learning/1.numpy"
 
 
 create a new repository on the command line
-echo "# pandas" >> README.md
+echo "# numpy" >> README.md
 git init
 git add .
 git commit -m "Add numpy done"
