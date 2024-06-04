@@ -7,7 +7,7 @@ echo "# pandas" >> README.md
 git init
 git add .
 git commit -m "Add numpy done"
-git remote add origin https://github.com/Faysal179038/100-Days-of-Machine-Learning.git
+git remote add origin https://github.com/Faysal179038/numpy.git
 git push -u origin main
 
 or push an existing repository from the command line
